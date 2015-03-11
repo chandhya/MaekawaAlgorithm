@@ -1,0 +1,7 @@
+
+
+public enum MessageType {
+	
+	INITITATE,CSREQUEST, FAILED, RESPONSE,YIELD,CSEXEREQ,ACK;
+
+}
